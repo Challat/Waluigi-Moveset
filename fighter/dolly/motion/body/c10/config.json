@@ -1,0 +1,25 @@
+{
+    "new-dir-files": {
+        "fighter/dolly/c00": [
+            "fighter/dolly/model/body/c00/dice_frame.nutexb",
+            "fighter/dolly/model/body/c00/dice_frame_nor.nutexb",
+            "fighter/dolly/model/body/c00/dice_num.nutexb",
+			"fighter/dolly/model/body/c00/dice_num_nor.nutexb"
+        ],
+		    "fighter/dolly/c00": [
+            "fighter/dolly/motion/body/c00/z00diced.nuanmb"
+        ],
+        "fighter/dolly/c07": [
+            "fighter/dolly/model/body/c07/dice_frame.nutexb",
+            "fighter/dolly/model/body/c07/dice_frame_nor.nutexb",
+            "fighter/dolly/model/body/c07/dice_num.nutexb",
+			"fighter/dolly/model/body/c07/dice_num_nor.nutexb",
+			"fighter/dolly/model/body/c07/TennisWaluigiAll.nutexb",
+            "fighter/dolly/model/body/c07/TennisWaluigiHair.nutexb",
+            "fighter/dolly/model/body/c07/TennisWaluigi_nor.nutexb",
+			"fighter/dolly/model/body/c07/waluigi_uni_wear_alb.nutexb",
+            "fighter/dolly/model/body/c07/waluigi_uni_wear_nor.nutexb",
+            "fighter/dolly/model/body/c07/waluigi_uni_hair_nor.nutexb"
+        ]
+    }
+}
