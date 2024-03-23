@@ -20,7 +20,6 @@ skyline - https://github.com/skyline-dev/skyline/releases
 (NRO_Hook) - https://github.com/ultimate-research/nro-hook-plugin/releases/
 (Smashline_plugin) - https://github.com/HDR-Development/smashline/releases
 (Arcropolis) - https://github.com/Raytwo/ARCropolis/releases
-(One_Slot_Victory_Theme) - https://gamebanana.com/mods/38834
 (The_CSK_Collection) - https://gamebanana.com/mods/499008
 (lib_paramconfig) -  https://github.com/CSharpM7/lib_paramconfig/releases
 
