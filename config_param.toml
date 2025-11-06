@@ -1,0 +1,197 @@
+kind = "DOLLY"
+slots = [120,121,122,123,124,125,126,127,128,129,130]
+
+[[param_int]]
+param = "wall_jump_type"
+subparam = ""
+value = 0
+
+[[param_float]]
+param = "scale"
+subparam = ""
+value = 0.965
+
+[[param_float]]
+param = "jump_y"
+subparam = ""
+value = 47.848
+
+[[param_float]]
+param = "dash_speed"
+subparam = ""
+value = 1.58
+
+[[param_float]]
+param = "walk_accel_mul"
+subparam = ""
+value = 0.097
+
+[[param_float]]
+param = "walk_accel_add"
+subparam = ""
+value = 0.243
+
+[[param_float]]
+param = "walk_speed_max"
+subparam = ""
+value = 0.84
+
+[[param_float]]
+param = "ground_brake"
+subparam = ""
+value = 0.062
+
+[[param_float]]
+param = "run_accel_mul"
+subparam = ""
+value = 0.12
+
+[[param_float]]
+param = "run_accel_add"
+subparam = ""
+value = 0.026
+
+[[param_float]]
+param = "run_speed_max"
+subparam = ""
+value = 1.67
+
+[[param_float]]
+param = "jump_speed_x"
+subparam = ""
+value = 0.87
+
+[[param_float]]
+param = "jump_speed_x_mul"
+subparam = ""
+value = 0.768
+
+[[param_float]]
+param = "jump_speed_x_max"
+subparam = ""
+value = 2.672
+
+[[param_float]]
+param = "jump_aerial_speed_x_mul"
+subparam = ""
+value = 1.089
+
+[[param_float]]
+param = "air_accel_y"
+subparam = ""
+value = 0.09
+
+[[param_float]]
+param = "jump_aerial_y"
+subparam = ""
+value = 28.248
+
+[[param_float]]
+param = "jump_initial_y"
+subparam = ""
+value = 28.548
+
+[[param_float]]
+param = "mini_jump_y"
+subparam = ""
+value = 15.155
+
+[[param_float]]
+param = "air_accel_x_mul"
+subparam = ""
+value = 0.085
+
+[[param_float]]
+param = "air_accel_x_add"
+subparam = ""
+value = 0.02
+
+[[param_float]]
+param = "dive_speed_y"
+subparam = ""
+value = 2.2
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value = 93.0
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value = 93.0
+
+[[param_float]]
+param = "shield_radius"
+subparam = ""
+value = 11.8
+
+[[param_float]]
+param = "landing_attack_air_frame_n"
+subparam = ""
+value = 8.0
+
+[[param_float]]
+param = "landing_attack_air_frame_f"
+subparam = ""
+value = 6.0
+
+[[param_float]]
+param = "landing_attack_air_frame_b"
+subparam = ""
+value = 10.0
+
+[[param_float]]
+param = "landing_attack_air_frame_hi"
+subparam = ""
+value = 9.0
+
+[[param_float]]
+param = "landing_attack_air_frame_lw"
+subparam = ""
+value = 6.0
+
+[[param_float]]
+param = "param_special_hi"
+subparam = "start_speed_y_mul"
+value = 0.1
+
+[[param_float]]
+param = "param_special_hi"
+subparam = "stick_x_min"
+value = 0.1
+
+[[param_float]]
+param = "param_special_hi"
+subparam = "stick_x_max"
+value = 0.1
+
+[[param_float]]
+param = "param_special_hi"
+subparam = "stick_x_speed_mul_max"
+value = 0.1
+
+[[param_float]]
+param = "param_special_hi"
+subparam = "control_frame"
+value = 2.0
+
+[[param_float]]
+param = "param_special_hi"
+subparam = "air_speed_y_mul"
+value = 0.692
+
+[[param_float]]
+param = "param_special_hi"
+subparam = "speed_y_mul"
+value = 0.55
+
+[[param_float]]
+param = "param_special_hi"
+subparam = "lr_stick_x"
+value = 0.2
+
+[[param_float]]
+param = "param_private"
+subparam = "super_special_damage"
+value = 999

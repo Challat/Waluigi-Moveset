@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <list hash="default_bones">
+    <struct index="0">
+      <hash40 hash="name">trans</hash40>
+    </struct>
+    <struct index="1">
+      <hash40 hash="name">rot</hash40>
+    </struct>
+    <struct index="2">
+      <hash40 hash="name">throw</hash40>
+    </struct>
+    <struct index="3">
+      <hash40 hash="name">hip</hash40>
+    </struct>
+    <struct index="4">
+      <hash40 hash="name">waist</hash40>
+    </struct>
+    <struct index="5">
+      <hash40 hash="name">bust</hash40>
+    </struct>
+    <struct index="6">
+      <hash40 hash="name">neck</hash40>
+    </struct>
+    <struct index="7">
+      <hash40 hash="name">head</hash40>
+    </struct>
+    <struct index="8">
+      <hash40 hash="name">legl</hash40>
+    </struct>
+    <struct index="9">
+      <hash40 hash="name">kneel</hash40>
+    </struct>
+    <struct index="10">
+      <hash40 hash="name">leftuplegroll</hash40>
+    </struct>
+    <struct index="11">
+      <hash40 hash="name">footl</hash40>
+    </struct>
+    <struct index="12">
+      <hash40 hash="name">leftlegroll</hash40>
+    </struct>
+    <struct index="13">
+      <hash40 hash="name">toel</hash40>
+    </struct>
+    <struct index="14">
+      <hash40 hash="name">havel</hash40>
+    </struct>
+    <struct index="15">
+      <hash40 hash="name">claviclel</hash40>
+    </struct>
+    <struct index="16">
+      <hash40 hash="name">shoulderl</hash40>
+    </struct>
+    <struct index="17">
+      <hash40 hash="name">leftarmroll</hash40>
+    </struct>
+    <struct index="18">
+      <hash40 hash="name">arml</hash40>
+    </struct>
+    <struct index="19">
+      <hash40 hash="name">handl</hash40>
+    </struct>
+    <struct index="20">
+      <hash40 hash="name">handr_unit_flip</hash40>
+    </struct>
+    <struct index="21">
+      <hash40 hash="name">legr</hash40>
+    </struct>
+    <struct index="22">
+      <hash40 hash="name">kneer</hash40>
+    </struct>
+    <struct index="23">
+      <hash40 hash="name">rightuplegroll</hash40>
+    </struct>
+    <struct index="24">
+      <hash40 hash="name">footr</hash40>
+    </struct>
+    <struct index="25">
+      <hash40 hash="name">rightlegroll</hash40>
+    </struct>
+    <struct index="26">
+      <hash40 hash="name">toer</hash40>
+    </struct>
+    <struct index="27">
+      <hash40 hash="name">haver</hash40>
+    </struct>
+    <struct index="28">
+      <hash40 hash="name">clavicler</hash40>
+    </struct>
+    <struct index="29">
+      <hash40 hash="name">shoulderr</hash40>
+    </struct>
+    <struct index="30">
+      <hash40 hash="name">rightarmroll</hash40>
+    </struct>
+    <struct index="31">
+      <hash40 hash="name">armr</hash40>
+    </struct>
+    <struct index="32">
+      <hash40 hash="name">handr</hash40>
+    </struct>
+    <struct index="33">
+      <hash40 hash="name">rightforearmroll</hash40>
+    </struct>
+  </list>
+  <list hash="bones">
+    <struct index="0">
+      <hash40 hash="name">rot</hash40>
+    </struct>
+  </list>
+</struct>

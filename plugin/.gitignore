@@ -1,0 +1,5 @@
+**/target
+**/releases
+**/*.smd
+**/*.pyc
+Cargo.lock
