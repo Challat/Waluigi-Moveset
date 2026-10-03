@@ -593,7 +593,7 @@ pub unsafe extern "C" fn break_end(weapon: &mut L2CWeaponCommon) -> L2CValue {
     0.into()
 }
 
-#[skyline::from_offset(0x33bcd10)]
+#[skyline::from_offset(0x33bd2c0)]
 unsafe extern "C" fn normal_weapon_on_attack_waluigi(vtable: u64, weapon: *mut Weapon, arg3: u64, log: CollisionLog);
 
 unsafe extern "C" fn fireball_on_attack_waluigi(vtable: u64, weapon: *mut smash::app::Weapon, arg3: u64, log: CollisionLog) {
@@ -626,7 +626,7 @@ unsafe extern "C" fn diceblock_bound_snd(agent: &mut L2CAgentBase) {
 	}
 }
 
-pub const FIREBALL_ON_ATTACK_PTR: usize = 0x51e2c80;
+pub const FIREBALL_ON_ATTACK_PTR: usize = 0x51e3c80;
 
 pub fn install() {
     let mut costume = &mut Vec::new();
