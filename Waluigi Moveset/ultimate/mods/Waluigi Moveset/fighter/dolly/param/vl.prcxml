@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <list hash="param_diceblock">
+    <struct index="0">
+      <float hash="gravity_accel">0.065</float>
+      <int hash="life">125</int>
+      <float hash="speed">1.95</float>
+      <float hash="angle">51</float>
+      <float hash="bound_ref_speed_mul">0.7</float>
+      <float hash="bounded_speed_y_min">1.4</float>
+      <float hash="bounded_speed_y_max">1.6</float>
+      <int hash="bound_count_max">20</int>
+      <float hash="wall_check_angle">60</float>
+      <int hash="is_penetration">0</int>
+      <float hash="gravity_acl_max">0</float>
+    </struct>
+    <struct index="1">
+      <float hash="gravity_accel">-0.75</float>
+      <int hash="life">0</int>
+      <float hash="speed">-1.95</float>
+      <float hash="angle">0</float>
+      <float hash="bound_ref_speed_mul">0</float>
+      <float hash="bounded_speed_y_min">0</float>
+      <float hash="bounded_speed_y_max">0</float>
+      <int hash="bound_count_max">0</int>
+      <float hash="wall_check_angle">0</float>
+      <int hash="is_penetration">0</int>
+      <float hash="gravity_acl_max">0</float>
+    </struct>
+    <struct index="2">
+      <float hash="gravity_accel">-0.1</float>
+      <int hash="life">0</int>
+      <float hash="speed">-1</float>
+      <float hash="angle">0</float>
+      <float hash="bound_ref_speed_mul">0</float>
+      <float hash="bounded_speed_y_min">0</float>
+      <float hash="bounded_speed_y_max">0</float>
+      <int hash="bound_count_max">0</int>
+      <float hash="wall_check_angle">0</float>
+      <int hash="is_penetration">0</int>
+      <float hash="gravity_acl_max">0</float>
+    </struct>
+    <struct index="3">
+      <float hash="gravity_accel">-0.1</float>
+      <int hash="life">0</int>
+      <float hash="speed">-0.4</float>
+      <float hash="angle">0</float>
+      <float hash="bound_ref_speed_mul">0</float>
+      <float hash="bounded_speed_y_min">0</float>
+      <float hash="bounded_speed_y_max">0</float>
+      <int hash="bound_count_max">0</int>
+      <float hash="wall_check_angle">0</float>
+      <int hash="is_penetration">0</int>
+      <float hash="gravity_acl_max">0</float>
+    </struct>
+  </list>
+</struct>
